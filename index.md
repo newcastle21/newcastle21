@@ -5,15 +5,15 @@ ERPパッケージの開発エンジニアとして新卒入社してから現�
 サバイバルを得意としており、あまり情報が残っていないレガシープロジェクトやトラブル発生時の切り分けや原因調査が強みです。
 
 ## アカウント/Accounts
-| Key | Value |
-| ---- | ---- |
-| 名前/Name | newcastle21 |
-| Qiita | [newcastle](https://qiita.com/newcastle) |
+|  Key  |  Value  |
+|  ----  |  ----  |
+|  名前/Name  |  newcastle21  |
+|  Qiita  |  [newcastle](https://qiita.com/newcastle)  |
 
 ## 職務経歴(サマリー)/WORK EXPERIENCE(Summary)
-| 会社名/Company name| 契約/Contract | 期間/Period | 職種/Occupation |
-| ---- | ---- | ---- | ---- |
-| [株式会社Works Human Intelligence](https://www.works-hi.co.jp) | 正規社員 | 2016/04 ~ 現在 | エンジニア |
+|  会社名/Company name  |  契約/Contract  |  期間/Period  |  職種/Occupation  |
+|  ----  |  ----  |  ----  |  ----  |
+|  [株式会社Works Human Intelligence](https://www.works-hi.co.jp)  |  正規社員  |  2016/04 ~ 現在  |  エンジニア  |
 
 ## 職務経歴(詳細)/WORK EXPERIENCE(Detail)
 
